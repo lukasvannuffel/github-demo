@@ -1,3 +1,2 @@
 dit is mijn eerste text file
-dit is een aanvulling van mijn text
-dit is een extra aanvulling van mijn bestand
+
